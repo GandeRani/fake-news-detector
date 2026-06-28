@@ -52,7 +52,8 @@ fake-news-detector/
 
 ---
 
-## ⚙️ How It Works
+
+##  How It Works
 
 1. User enters news text
 2. Text is converted using TF-IDF vectorizer
@@ -70,22 +71,28 @@ fake-news-detector/
 ```bash
 git clone https://github.com/GandeRani/fake-news-detector.git
 
+
 2. Install dependencies
 pip install -r requirements.txt
+
 3. Run app
 python app.py
+
 4. Open in browser
 http://127.0.0.1:5000
-📊 Model Details
+
+##📊 Model Details
 Algorithm: Logistic Regression
 Feature Extraction: TF-IDF
 Dataset: Fake & Real News Dataset (Kaggle)
 Accuracy: ~98%
-🧠 Future Improvements
+
+##🧠 Future Improvements
 Deploy on Render / Railway
 Add BERT-based model
 Add URL-based news detection
 Improve explanation visuals
+
 👨‍💻 Author
 
 Rani Gande
