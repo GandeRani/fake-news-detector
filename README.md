@@ -6,7 +6,7 @@ An AI-powered web application that detects whether a news article is **real or f
 
 ## 🚀 Live Demo
 
-try this here : https://fake-news-detector-5s2e.onrender.com
+**Live Application:**  https://fake-news-detector-5s2e.onrender.com
 
 ---
 
